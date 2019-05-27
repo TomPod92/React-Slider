@@ -1,0 +1,14 @@
+.buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 0;
+}
+
+.button {
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    
+    &:nth-child(1) {
+        margin-right: 2rem;
+    }
+}
