@@ -2,7 +2,7 @@
 
 Very simple React Aplication made in order to learn how to implement basic image slider using react state
 
-![App](./slider.PNG)
+![App](silder.PNG)
 
 ## Technologies used
 
@@ -11,7 +11,7 @@ Very simple React Aplication made in order to learn how to implement basic image
 
 ---
 
-## In order to few the project:
+## In order to view the project:
 
 ```bash
 npm instiall
